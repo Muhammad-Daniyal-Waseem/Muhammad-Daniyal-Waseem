@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://sg.docs.wps.com/module/common/loadPlatform/?sid=sIO2CgKrfAb7wm7QG&v=v2](https://sg.docs.wps.com/module/common/loadPlatform/?sid=sIO2CgKrfAb7wm7QG&v=v2)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
