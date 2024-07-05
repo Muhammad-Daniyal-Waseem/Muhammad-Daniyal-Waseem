@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **nextjs and typescript**
 
-- 👨‍💻 All of my projects are available at [https://daniyal-waseem.vercel.app/](https://daniyal-waseem.vercel.app/)
+- <p dir="auto">👨‍💻 All of my projects are available at 
+  <a href="https://github.com/Muhammad-Daniyal-Waseem?tab=repositories">repository</a></p>
+- <p dir="auto">🌐 See my portfolio here <a href="https://daniyal-waseem.vercel.app/" rel="nofollow">muhammad-daniyal-waseem</a></p>
 
 - 💬 Ask me about **react , sqlServer and nodejs**
 
