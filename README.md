@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-daniyal-waseem&show_icons=true&locale=en" alt="muhammad-daniyal-waseem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-daniyal-waseem&" alt="muhammad-daniyal-waseem" /></p>
+![](https://leetcard.jacoblin.cool/muhammad-daniyal-waseem?ext=heatmap)
