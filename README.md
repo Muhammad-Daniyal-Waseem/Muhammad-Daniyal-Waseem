@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="http://basicoderzz.epizy.com/wp-content/uploads/2023/05/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-daniyal-waseem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-daniyal-waseem" /> </p>
-- 🌱 I’m currently learning **nextjs and typescript**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - <p dir="auto">👨‍💻 All of my projects are available at 
   <a href="https://github.com/Muhammad-Daniyal-Waseem?tab=repositories">repository</a></p>
