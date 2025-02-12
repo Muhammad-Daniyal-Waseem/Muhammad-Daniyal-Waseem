@@ -92,5 +92,5 @@
 ---
 
 ### 💡 **Fun Fact**
-🛠️ When I'm not coding, I love solving DSA problems and exploring new technologies!
+🛠️ When I'm not coding, I love solving DSA problems and exploring new technologies!.
 
