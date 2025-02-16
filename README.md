@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Flutter and Python**
 - 💬 Ask me about **React, SQL Server, and Node.js**
 - 👨‍💻 All of my projects are available on my [Repositories](https://github.com/Muhammad-Daniyal-Waseem?tab=repositories)
-- 🌐 Check out my [Portfolio](https://daniyal-waseem.vercel.app/)
+- 🌐 Check out my [Portfolio](m-daniyalwaseem.tech)
 - 📫 Reach me at **daniyalwaseem0808@gmail.com**
 - 📄 View my [Resume](https://sg.docs.wps.com/module/common/loadPlatform/?sid=sIO2CgKrfAb7wm7QG&v=v2)
 
